@@ -1,0 +1,960 @@
+{"{'index': 0, 'country': 'Afghanistan.npy', 'model name': 'normal, without ABBA', 'k': 3}": 0.1584511703793698}
+{"{'index': 1, 'country': 'Afghanistan.npy', 'model name': 'normal, without ABBA', 'k': 4}": 0.16708729490578098}
+{"{'index': 2, 'country': 'Afghanistan.npy', 'model name': 'normal, without ABBA', 'k': 5}": 0.1985830039885919}
+{"{'index': 3, 'country': 'Afghanistan.npy', 'model name': 'normal, without ABBA', 'k': 6}": 0.16288299716222143}
+{"{'index': 4, 'country': 'Afghanistan.npy', 'model name': 'normal, with ABBA', 'k': 3}": 0.14378147182437875}
+{"{'index': 5, 'country': 'Afghanistan.npy', 'model name': 'normal, with ABBA', 'k': 4}": 0.17428008621291355}
+{"{'index': 6, 'country': 'Afghanistan.npy', 'model name': 'normal, with ABBA', 'k': 5}": 0.24530762311616075}
+{"{'index': 7, 'country': 'Afghanistan.npy', 'model name': 'normal, with ABBA', 'k': 6}": 0.18827824009650382}
+{"{'index': 8, 'country': 'Afghanistan.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 3}": 0.027545561435059585}
+{"{'index': 9, 'country': 'Afghanistan.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 4}": 0.7398337372921213}
+{"{'index': 10, 'country': 'Afghanistan.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 5}": 0.7429377258017542}
+{"{'index': 11, 'country': 'Afghanistan.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 6}": 0.14879167339889407}
+{"{'index': 12, 'country': 'Afghanistan.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 3}": 0.22804685358361698}
+{"{'index': 13, 'country': 'Afghanistan.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 4}": 0.03444013645635276}
+{"{'index': 14, 'country': 'Afghanistan.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 5}": 0.09040182723905421}
+{"{'index': 15, 'country': 'Afghanistan.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 6}": 0.09863148770884402}
+{"{'index': 16, 'country': 'Afghanistan.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 3}": 0.21716894724587243}
+{"{'index': 17, 'country': 'Afghanistan.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 4}": 0.059039419245431574}
+{"{'index': 18, 'country': 'Afghanistan.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 5}": 0.20615821165847886}
+{"{'index': 19, 'country': 'Afghanistan.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 6}": 0.3114740219921606}
+{"{'index': 20, 'country': 'Afghanistan.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 3}": 0.1092450336908728}
+{"{'index': 21, 'country': 'Afghanistan.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 4}": 0.0751393872028374}
+{"{'index': 22, 'country': 'Afghanistan.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 5}": 0.16803273622070974}
+{"{'index': 23, 'country': 'Afghanistan.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 6}": 0.31391613069533203}
+{"{'index': 24, 'country': 'Afghanistan.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 3}": 0.17360770261054992}
+{"{'index': 25, 'country': 'Afghanistan.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 4}": 0.1637934695909683}
+{"{'index': 26, 'country': 'Afghanistan.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 5}": 0.18228771311362396}
+{"{'index': 27, 'country': 'Afghanistan.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 6}": 0.1913877168075657}
+{"{'index': 28, 'country': 'Afghanistan.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 3}": 0.13647559055002775}
+{"{'index': 29, 'country': 'Afghanistan.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 4}": 0.1835942682273843}
+{"{'index': 30, 'country': 'Afghanistan.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 5}": 0.1391629550014374}
+{"{'index': 31, 'country': 'Afghanistan.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 6}": 0.14467605563716032}
+{"{'index': 32, 'country': 'Afghanistan.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 3}": 0.053036975498332896}
+{"{'index': 33, 'country': 'Afghanistan.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 4}": 0.13622235740847694}
+{"{'index': 34, 'country': 'Afghanistan.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 5}": 0.27683316423877247}
+{"{'index': 35, 'country': 'Afghanistan.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 6}": 0.10320868024402109}
+{"{'index': 36, 'country': 'Afghanistan.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 3}": 0.07125982753313603}
+{"{'index': 37, 'country': 'Afghanistan.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 4}": 0.11415784603145382}
+{"{'index': 38, 'country': 'Afghanistan.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 5}": 0.27455685111934175}
+{"{'index': 39, 'country': 'Afghanistan.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 6}": 0.3466159354470469}
+{"{'index': 40, 'country': 'Albania.npy', 'model name': 'normal, without ABBA', 'k': 3}": 0.1328733792695363}
+{"{'index': 41, 'country': 'Albania.npy', 'model name': 'normal, without ABBA', 'k': 4}": 0.0955732570977281}
+{"{'index': 42, 'country': 'Albania.npy', 'model name': 'normal, without ABBA', 'k': 5}": 0.10383959888373273}
+{"{'index': 43, 'country': 'Albania.npy', 'model name': 'normal, without ABBA', 'k': 6}": 0.4345004174753034}
+{"{'index': 44, 'country': 'Albania.npy', 'model name': 'normal, with ABBA', 'k': 3}": 0.16357640472398172}
+{"{'index': 45, 'country': 'Albania.npy', 'model name': 'normal, with ABBA', 'k': 4}": 0.4823246018108222}
+{"{'index': 46, 'country': 'Albania.npy', 'model name': 'normal, with ABBA', 'k': 5}": 0.1091097737444747}
+{"{'index': 47, 'country': 'Albania.npy', 'model name': 'normal, with ABBA', 'k': 6}": 0.21163260450320212}
+{"{'index': 48, 'country': 'Albania.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 3}": 0.05554207740046715}
+{"{'index': 49, 'country': 'Albania.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 4}": 0.02295252889196319}
+{"{'index': 50, 'country': 'Albania.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 5}": 0.06613354630673281}
+{"{'index': 51, 'country': 'Albania.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 6}": 0.0863292185552546}
+{"{'index': 52, 'country': 'Albania.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 3}": 0.22151018414545143}
+{"{'index': 53, 'country': 'Albania.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 4}": 0.28914459285909144}
+{"{'index': 54, 'country': 'Albania.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 5}": 0.20634488934620682}
+{"{'index': 55, 'country': 'Albania.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 6}": 0.0565551915876751}
+{"{'index': 56, 'country': 'Albania.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 3}": 0.16436717012318094}
+{"{'index': 57, 'country': 'Albania.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 4}": 0.3261681717575401}
+{"{'index': 58, 'country': 'Albania.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 5}": 0.09223749550392754}
+{"{'index': 59, 'country': 'Albania.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 6}": 0.41839266917783463}
+{"{'index': 60, 'country': 'Albania.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 3}": 0.24498603231556268}
+{"{'index': 61, 'country': 'Albania.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 4}": 0.2780125597197838}
+{"{'index': 62, 'country': 'Albania.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 5}": 0.13874889553929268}
+{"{'index': 63, 'country': 'Albania.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 6}": 0.28302732828018057}
+{"{'index': 64, 'country': 'Albania.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 3}": 0.18089971169417685}
+{"{'index': 65, 'country': 'Albania.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 4}": 0.23743715581136748}
+{"{'index': 66, 'country': 'Albania.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 5}": 0.19865090736617158}
+{"{'index': 67, 'country': 'Albania.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 6}": 0.35898792424072296}
+{"{'index': 68, 'country': 'Albania.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 3}": 0.17462049466344878}
+{"{'index': 69, 'country': 'Albania.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 4}": 0.21337543729347225}
+{"{'index': 70, 'country': 'Albania.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 5}": 0.10534173299969074}
+{"{'index': 71, 'country': 'Albania.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 6}": 0.38576332192561774}
+{"{'index': 72, 'country': 'Albania.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 3}": 0.15170540532294405}
+{"{'index': 73, 'country': 'Albania.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 4}": 0.04715290916871594}
+{"{'index': 74, 'country': 'Albania.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 5}": 0.09542909009339337}
+{"{'index': 75, 'country': 'Albania.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 6}": 0.3095074254091575}
+{"{'index': 76, 'country': 'Albania.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 3}": 0.2776514818986932}
+{"{'index': 77, 'country': 'Albania.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 4}": 0.7130943231945399}
+{"{'index': 78, 'country': 'Albania.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 5}": 0.12152186991638661}
+{"{'index': 79, 'country': 'Albania.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 6}": 0.16588863077553168}
+{"{'index': 80, 'country': 'Algeria.npy', 'model name': 'normal, without ABBA', 'k': 3}": 0.07939690889432062}
+{"{'index': 81, 'country': 'Algeria.npy', 'model name': 'normal, without ABBA', 'k': 4}": 0.033884859337544614}
+{"{'index': 82, 'country': 'Algeria.npy', 'model name': 'normal, without ABBA', 'k': 5}": 0.10097712090395658}
+{"{'index': 83, 'country': 'Algeria.npy', 'model name': 'normal, without ABBA', 'k': 6}": 0.06519515091385979}
+{"{'index': 84, 'country': 'Algeria.npy', 'model name': 'normal, with ABBA', 'k': 3}": 0.08047859330893949}
+{"{'index': 85, 'country': 'Algeria.npy', 'model name': 'normal, with ABBA', 'k': 4}": 0.0261166139451834}
+{"{'index': 86, 'country': 'Algeria.npy', 'model name': 'normal, with ABBA', 'k': 5}": 0.2329067208988293}
+{"{'index': 87, 'country': 'Algeria.npy', 'model name': 'normal, with ABBA', 'k': 6}": 0.09081498450258745}
+{"{'index': 88, 'country': 'Algeria.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 3}": 0.01872344102835328}
+{"{'index': 89, 'country': 'Algeria.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 4}": 0.37409256231195376}
+{"{'index': 90, 'country': 'Algeria.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 5}": 0.10339780474070662}
+{"{'index': 91, 'country': 'Algeria.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 6}": 0.9929485529926526}
+{"{'index': 92, 'country': 'Algeria.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 3}": 0.018821635734661127}
+{"{'index': 93, 'country': 'Algeria.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 4}": 0.04719822541226752}
+{"{'index': 94, 'country': 'Algeria.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 5}": 0.01598251447200399}
+{"{'index': 95, 'country': 'Algeria.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 6}": 0.039699586413149905}
+{"{'index': 96, 'country': 'Algeria.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 3}": 0.07510612587136822}
+{"{'index': 97, 'country': 'Algeria.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 4}": 0.03959706489590949}
+{"{'index': 98, 'country': 'Algeria.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 5}": 0.048901592402576764}
+{"{'index': 99, 'country': 'Algeria.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 6}": 0.07565306015135366}
+{"{'index': 100, 'country': 'Algeria.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 3}": 0.019664812132037714}
+{"{'index': 101, 'country': 'Algeria.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 4}": 0.05267754013525637}
+{"{'index': 102, 'country': 'Algeria.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 5}": 0.030476257476838076}
+{"{'index': 103, 'country': 'Algeria.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 6}": 0.06918515962782353}
+{"{'index': 104, 'country': 'Algeria.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 3}": 0.059984088973766524}
+{"{'index': 105, 'country': 'Algeria.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 4}": 0.03496813600977773}
+{"{'index': 106, 'country': 'Algeria.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 5}": 0.024663382272996547}
+{"{'index': 107, 'country': 'Algeria.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 6}": 0.042245807597606745}
+{"{'index': 108, 'country': 'Algeria.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 3}": 0.03128613484088077}
+{"{'index': 109, 'country': 'Algeria.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 4}": 0.07636417424895489}
+{"{'index': 110, 'country': 'Algeria.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 5}": 0.047883585108465174}
+{"{'index': 111, 'country': 'Algeria.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 6}": 0.3293043232628311}
+{"{'index': 112, 'country': 'Algeria.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 3}": 0.009117067069863764}
+{"{'index': 113, 'country': 'Algeria.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 4}": 0.03553887376591867}
+{"{'index': 114, 'country': 'Algeria.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 5}": 0.16515130738232603}
+{"{'index': 115, 'country': 'Algeria.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 6}": 0.05976709609660258}
+{"{'index': 116, 'country': 'Algeria.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 3}": 0.02456802437386567}
+{"{'index': 117, 'country': 'Algeria.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 4}": 0.06232428770221127}
+{"{'index': 118, 'country': 'Algeria.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 5}": 0.09192937688623695}
+{"{'index': 119, 'country': 'Algeria.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 6}": 0.07369471024658952}
+{"{'index': 560, 'country': 'Bahrain.npy', 'model name': 'normal, without ABBA', 'k': 3}": 0.16908330523130333}
+{"{'index': 561, 'country': 'Bahrain.npy', 'model name': 'normal, without ABBA', 'k': 4}": 0.18235371260748598}
+{"{'index': 562, 'country': 'Bahrain.npy', 'model name': 'normal, without ABBA', 'k': 5}": 0.1854186359927778}
+{"{'index': 563, 'country': 'Bahrain.npy', 'model name': 'normal, without ABBA', 'k': 6}": 0.1663426235156348}
+{"{'index': 564, 'country': 'Bahrain.npy', 'model name': 'normal, with ABBA', 'k': 3}": 0.14204126587760485}
+{"{'index': 565, 'country': 'Bahrain.npy', 'model name': 'normal, with ABBA', 'k': 4}": 0.07111892118173534}
+{"{'index': 566, 'country': 'Bahrain.npy', 'model name': 'normal, with ABBA', 'k': 5}": 0.13558414240281308}
+{"{'index': 567, 'country': 'Bahrain.npy', 'model name': 'normal, with ABBA', 'k': 6}": 0.06880206372130429}
+{"{'index': 568, 'country': 'Bahrain.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 3}": 0.6425419510821642}
+{"{'index': 569, 'country': 'Bahrain.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 4}": 0.06885937937383677}
+{"{'index': 570, 'country': 'Bahrain.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 5}": 0.0980818758436828}
+{"{'index': 571, 'country': 'Bahrain.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 6}": 0.06966688189356017}
+{"{'index': 572, 'country': 'Bahrain.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 3}": 0.17508892123076372}
+{"{'index': 573, 'country': 'Bahrain.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 4}": 0.09513672946287294}
+{"{'index': 574, 'country': 'Bahrain.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 5}": 0.11075827621015248}
+{"{'index': 575, 'country': 'Bahrain.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 6}": 0.15248050256625964}
+{"{'index': 576, 'country': 'Bahrain.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 3}": 0.10715766062100274}
+{"{'index': 577, 'country': 'Bahrain.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 4}": 0.11232245589537028}
+{"{'index': 578, 'country': 'Bahrain.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 5}": 0.09000839137175623}
+{"{'index': 579, 'country': 'Bahrain.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 6}": 0.056093176940207455}
+{"{'index': 580, 'country': 'Bahrain.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 3}": 0.13326400036550481}
+{"{'index': 581, 'country': 'Bahrain.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 4}": 0.242114888949906}
+{"{'index': 582, 'country': 'Bahrain.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 5}": 0.11409631699564071}
+{"{'index': 583, 'country': 'Bahrain.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 6}": 0.045932035986700426}
+{"{'index': 584, 'country': 'Bahrain.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 3}": 0.1462766656425302}
+{"{'index': 585, 'country': 'Bahrain.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 4}": 0.1035705584187574}
+{"{'index': 586, 'country': 'Bahrain.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 5}": 0.09372285966430309}
+{"{'index': 587, 'country': 'Bahrain.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 6}": 0.17311093354531018}
+{"{'index': 588, 'country': 'Bahrain.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 3}": 0.10556178266315895}
+{"{'index': 589, 'country': 'Bahrain.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 4}": 0.1861322570055711}
+{"{'index': 590, 'country': 'Bahrain.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 5}": 0.1376166957566925}
+{"{'index': 591, 'country': 'Bahrain.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 6}": 0.19150420460838882}
+{"{'index': 592, 'country': 'Bahrain.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 3}": 0.0973299702338452}
+{"{'index': 593, 'country': 'Bahrain.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 4}": 0.06526900112347715}
+{"{'index': 594, 'country': 'Bahrain.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 5}": 0.048010806221697525}
+{"{'index': 595, 'country': 'Bahrain.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 6}": 0.05010010660486645}
+{"{'index': 596, 'country': 'Bahrain.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 3}": 0.13926805174292714}
+{"{'index': 597, 'country': 'Bahrain.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 4}": 0.07498504819830518}
+{"{'index': 598, 'country': 'Bahrain.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 5}": 0.15223089277367788}
+{"{'index': 599, 'country': 'Bahrain.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 6}": 0.06419044661849997}
+{"{'index': 1600, 'country': 'China (included Hong Kong, Macao and Taiwan).npy', 'model name': 'normal, without ABBA', 'k': 3}": 0.0663098401365318}
+{"{'index': 1601, 'country': 'China (included Hong Kong, Macao and Taiwan).npy', 'model name': 'normal, without ABBA', 'k': 4}": 0.08232892002727696}
+{"{'index': 1602, 'country': 'China (included Hong Kong, Macao and Taiwan).npy', 'model name': 'normal, without ABBA', 'k': 5}": 0.0877968303784314}
+{"{'index': 1603, 'country': 'China (included Hong Kong, Macao and Taiwan).npy', 'model name': 'normal, without ABBA', 'k': 6}": 0.04572351113222587}
+{"{'index': 1604, 'country': 'China (included Hong Kong, Macao and Taiwan).npy', 'model name': 'normal, with ABBA', 'k': 3}": 0.033867008680634844}
+{"{'index': 1605, 'country': 'China (included Hong Kong, Macao and Taiwan).npy', 'model name': 'normal, with ABBA', 'k': 4}": 0.02708793636997276}
+{"{'index': 1606, 'country': 'China (included Hong Kong, Macao and Taiwan).npy', 'model name': 'normal, with ABBA', 'k': 5}": 0.026445233964904197}
+{"{'index': 1607, 'country': 'China (included Hong Kong, Macao and Taiwan).npy', 'model name': 'normal, with ABBA', 'k': 6}": 0.0223206667259627}
+{"{'index': 1608, 'country': 'China (included Hong Kong, Macao and Taiwan).npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 3}": 0.12514914670652802}
+{"{'index': 1609, 'country': 'China (included Hong Kong, Macao and Taiwan).npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 4}": 0.07428512245900112}
+{"{'index': 1610, 'country': 'China (included Hong Kong, Macao and Taiwan).npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 5}": 0.14705217348800478}
+{"{'index': 1611, 'country': 'China (included Hong Kong, Macao and Taiwan).npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 6}": 0.07650329857181463}
+{"{'index': 1612, 'country': 'China (included Hong Kong, Macao and Taiwan).npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 3}": 0.07715414444404327}
+{"{'index': 1613, 'country': 'China (included Hong Kong, Macao and Taiwan).npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 4}": 0.05984989248434075}
+{"{'index': 1614, 'country': 'China (included Hong Kong, Macao and Taiwan).npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 5}": 0.04879274074072107}
+{"{'index': 1615, 'country': 'China (included Hong Kong, Macao and Taiwan).npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 6}": 0.046627351092760914}
+{"{'index': 1616, 'country': 'China (included Hong Kong, Macao and Taiwan).npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 3}": 0.02610468411285651}
+{"{'index': 1617, 'country': 'China (included Hong Kong, Macao and Taiwan).npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 4}": 0.034431809804632216}
+{"{'index': 1618, 'country': 'China (included Hong Kong, Macao and Taiwan).npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 5}": 0.08652858289264424}
+{"{'index': 1619, 'country': 'China (included Hong Kong, Macao and Taiwan).npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 6}": 0.024865830567986913}
+{"{'index': 1620, 'country': 'China (included Hong Kong, Macao and Taiwan).npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 3}": 0.02610468411285651}
+{"{'index': 1621, 'country': 'China (included Hong Kong, Macao and Taiwan).npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 4}": 0.06360458866899205}
+{"{'index': 1622, 'country': 'China (included Hong Kong, Macao and Taiwan).npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 5}": 0.05074070327335918}
+{"{'index': 1623, 'country': 'China (included Hong Kong, Macao and Taiwan).npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 6}": 0.027019884864992526}
+{"{'index': 1624, 'country': 'China (included Hong Kong, Macao and Taiwan).npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 3}": 0.06236659394255645}
+{"{'index': 1625, 'country': 'China (included Hong Kong, Macao and Taiwan).npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 4}": 0.09944031637721926}
+{"{'index': 1626, 'country': 'China (included Hong Kong, Macao and Taiwan).npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 5}": 0.11098255539482607}
+{"{'index': 1627, 'country': 'China (included Hong Kong, Macao and Taiwan).npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 6}": 0.04156444127419034}
+{"{'index': 1628, 'country': 'China (included Hong Kong, Macao and Taiwan).npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 3}": 0.09700967925150017}
+{"{'index': 1629, 'country': 'China (included Hong Kong, Macao and Taiwan).npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 4}": 0.04523875309525831}
+{"{'index': 1630, 'country': 'China (included Hong Kong, Macao and Taiwan).npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 5}": 0.06808265748347878}
+{"{'index': 1631, 'country': 'China (included Hong Kong, Macao and Taiwan).npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 6}": 0.0884619036867168}
+{"{'index': 1632, 'country': 'China (included Hong Kong, Macao and Taiwan).npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 3}": 0.038530504289036066}
+{"{'index': 1633, 'country': 'China (included Hong Kong, Macao and Taiwan).npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 4}": 0.022172116494429774}
+{"{'index': 1634, 'country': 'China (included Hong Kong, Macao and Taiwan).npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 5}": 0.046009121398067857}
+{"{'index': 1635, 'country': 'China (included Hong Kong, Macao and Taiwan).npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 6}": 0.01636863325260299}
+{"{'index': 1636, 'country': 'China (included Hong Kong, Macao and Taiwan).npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 3}": 0.02014629932871505}
+{"{'index': 1637, 'country': 'China (included Hong Kong, Macao and Taiwan).npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 4}": 0.023358295138964986}
+{"{'index': 1638, 'country': 'China (included Hong Kong, Macao and Taiwan).npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 5}": 0.043945794933589084}
+{"{'index': 1639, 'country': 'China (included Hong Kong, Macao and Taiwan).npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 6}": 0.018748770947121688}
+{"{'index': 1640, 'country': 'Colombia.npy', 'model name': 'normal, without ABBA', 'k': 3}": 0.22658157050916353}
+{"{'index': 1641, 'country': 'Colombia.npy', 'model name': 'normal, without ABBA', 'k': 4}": 0.28427367622806565}
+{"{'index': 1642, 'country': 'Colombia.npy', 'model name': 'normal, without ABBA', 'k': 5}": 0.31207486767111287}
+{"{'index': 1643, 'country': 'Colombia.npy', 'model name': 'normal, without ABBA', 'k': 6}": 0.11859865844539935}
+{"{'index': 1644, 'country': 'Colombia.npy', 'model name': 'normal, with ABBA', 'k': 3}": 0.06910288875440751}
+{"{'index': 1645, 'country': 'Colombia.npy', 'model name': 'normal, with ABBA', 'k': 4}": 0.42969463156370263}
+{"{'index': 1646, 'country': 'Colombia.npy', 'model name': 'normal, with ABBA', 'k': 5}": 0.1927141121774109}
+{"{'index': 1647, 'country': 'Colombia.npy', 'model name': 'normal, with ABBA', 'k': 6}": 0.14786656478672075}
+{"{'index': 1648, 'country': 'Colombia.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 3}": 0.05584896513831539}
+{"{'index': 1649, 'country': 'Colombia.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 4}": 0.1075767562966004}
+{"{'index': 1650, 'country': 'Colombia.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 5}": 0.12866191542323918}
+{"{'index': 1651, 'country': 'Colombia.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 6}": 0.25616029945818136}
+{"{'index': 1652, 'country': 'Colombia.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 3}": 0.05669048424562272}
+{"{'index': 1653, 'country': 'Colombia.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 4}": 0.26676710539597037}
+{"{'index': 1654, 'country': 'Colombia.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 5}": 0.07567569812186743}
+{"{'index': 1655, 'country': 'Colombia.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 6}": 0.15150796500709465}
+{"{'index': 1656, 'country': 'Colombia.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 3}": 0.0792166106148733}
+{"{'index': 1657, 'country': 'Colombia.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 4}": 0.4633566897122554}
+{"{'index': 1658, 'country': 'Colombia.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 5}": 0.22911191605908626}
+{"{'index': 1659, 'country': 'Colombia.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 6}": 0.1317458261398462}
+{"{'index': 1660, 'country': 'Colombia.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 3}": 0.22929090654590967}
+{"{'index': 1661, 'country': 'Colombia.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 4}": 0.1154645917909187}
+{"{'index': 1662, 'country': 'Colombia.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 5}": 0.19058551155344558}
+{"{'index': 1663, 'country': 'Colombia.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 6}": 0.1805187358774055}
+{"{'index': 1664, 'country': 'Colombia.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 3}": 0.06037425759459994}
+{"{'index': 1665, 'country': 'Colombia.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 4}": 0.28232810621844856}
+{"{'index': 1666, 'country': 'Colombia.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 5}": 0.27293889256153353}
+{"{'index': 1667, 'country': 'Colombia.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 6}": 0.15965608400973844}
+{"{'index': 1668, 'country': 'Colombia.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 3}": 0.06952243613840468}
+{"{'index': 1669, 'country': 'Colombia.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 4}": 0.10929293432531983}
+{"{'index': 1670, 'country': 'Colombia.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 5}": 0.24262352838587695}
+{"{'index': 1671, 'country': 'Colombia.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 6}": 0.12091624093480347}
+{"{'index': 1672, 'country': 'Colombia.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 3}": 0.06404565331077526}
+{"{'index': 1673, 'country': 'Colombia.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 4}": 0.21191638176503094}
+{"{'index': 1674, 'country': 'Colombia.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 5}": 0.17303449369629392}
+{"{'index': 1675, 'country': 'Colombia.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 6}": 0.059641405178547026}
+{"{'index': 1676, 'country': 'Colombia.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 3}": 0.052046098223395704}
+{"{'index': 1677, 'country': 'Colombia.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 4}": 0.4724534487391634}
+{"{'index': 1678, 'country': 'Colombia.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 5}": 0.2262889920341676}
+{"{'index': 1679, 'country': 'Colombia.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 6}": 0.10108645634296444}
+{"{'index': 1680, 'country': 'Comoros.npy', 'model name': 'normal, without ABBA', 'k': 3}": 0.23078070920154606}
+{"{'index': 1681, 'country': 'Comoros.npy', 'model name': 'normal, without ABBA', 'k': 4}": 0.22313893527896872}
+{"{'index': 1682, 'country': 'Comoros.npy', 'model name': 'normal, without ABBA', 'k': 5}": 0.3050016990917917}
+{"{'index': 1683, 'country': 'Comoros.npy', 'model name': 'normal, without ABBA', 'k': 6}": 0.45493984637855994}
+{"{'index': 1684, 'country': 'Comoros.npy', 'model name': 'normal, with ABBA', 'k': 3}": 0.07378546717152619}
+{"{'index': 1685, 'country': 'Comoros.npy', 'model name': 'normal, with ABBA', 'k': 4}": 0.0799226806925405}
+{"{'index': 1686, 'country': 'Comoros.npy', 'model name': 'normal, with ABBA', 'k': 5}": 0.11082611430689134}
+{"{'index': 1687, 'country': 'Comoros.npy', 'model name': 'normal, with ABBA', 'k': 6}": 0.24044568400014862}
+{"{'index': 1688, 'country': 'Comoros.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 3}": 0.12170724073379695}
+{"{'index': 1689, 'country': 'Comoros.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 4}": 0.36566097195104363}
+{"{'index': 1690, 'country': 'Comoros.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 5}": 0.3004712024365859}
+{"{'index': 1691, 'country': 'Comoros.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 6}": 0.3404018747044019}
+{"{'index': 1692, 'country': 'Comoros.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 3}": 0.04893107595269571}
+{"{'index': 1693, 'country': 'Comoros.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 4}": 0.3607212502538623}
+{"{'index': 1694, 'country': 'Comoros.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 5}": 0.12813243963117787}
+{"{'index': 1695, 'country': 'Comoros.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 6}": 0.44157768776654605}
+{"{'index': 1696, 'country': 'Comoros.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 3}": 0.03781677386264042}
+{"{'index': 1697, 'country': 'Comoros.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 4}": 0.27233721473511624}
+{"{'index': 1698, 'country': 'Comoros.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 5}": 0.028920864337724988}
+{"{'index': 1699, 'country': 'Comoros.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 6}": 0.310427614535495}
+{"{'index': 1700, 'country': 'Comoros.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 3}": 0.04380109855768908}
+{"{'index': 1701, 'country': 'Comoros.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 4}": 0.14191103213226997}
+{"{'index': 1702, 'country': 'Comoros.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 5}": 0.054610728051676195}
+{"{'index': 1703, 'country': 'Comoros.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 6}": 0.42932871799956396}
+{"{'index': 1704, 'country': 'Comoros.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 3}": 0.205433618154479}
+{"{'index': 1705, 'country': 'Comoros.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 4}": 0.15772710658150726}
+{"{'index': 1706, 'country': 'Comoros.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 5}": 0.3580800312976874}
+{"{'index': 1707, 'country': 'Comoros.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 6}": 0.43297547436685035}
+{"{'index': 1708, 'country': 'Comoros.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 3}": 0.32679137100701916}
+{"{'index': 1709, 'country': 'Comoros.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 4}": 0.24192455248093264}
+{"{'index': 1710, 'country': 'Comoros.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 5}": 0.37363760713165783}
+{"{'index': 1711, 'country': 'Comoros.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 6}": 0.4396368146070487}
+{"{'index': 1712, 'country': 'Comoros.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 3}": 0.1369257298356533}
+{"{'index': 1713, 'country': 'Comoros.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 4}": 0.1638243356968598}
+{"{'index': 1714, 'country': 'Comoros.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 5}": 0.08286812637819328}
+{"{'index': 1715, 'country': 'Comoros.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 6}": 0.2882283575005352}
+{"{'index': 1716, 'country': 'Comoros.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 3}": 0.04380109855768908}
+{"{'index': 1717, 'country': 'Comoros.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 4}": 0.31955940641597935}
+{"{'index': 1718, 'country': 'Comoros.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 5}": 0.07287301950653528}
+{"{'index': 1719, 'country': 'Comoros.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 6}": 0.21191563383972378}
+{"{'index': 1720, 'country': 'Congo.npy', 'model name': 'normal, without ABBA', 'k': 3}": 0.15626386942322804}
+{"{'index': 1721, 'country': 'Congo.npy', 'model name': 'normal, without ABBA', 'k': 4}": 0.21073617673060788}
+{"{'index': 1722, 'country': 'Congo.npy', 'model name': 'normal, without ABBA', 'k': 5}": 0.19283952104190946}
+{"{'index': 1723, 'country': 'Congo.npy', 'model name': 'normal, without ABBA', 'k': 6}": 0.26755549257563566}
+{"{'index': 1724, 'country': 'Congo.npy', 'model name': 'normal, with ABBA', 'k': 3}": 0.047557586824931684}
+{"{'index': 1725, 'country': 'Congo.npy', 'model name': 'normal, with ABBA', 'k': 4}": 0.19587630062608513}
+{"{'index': 1726, 'country': 'Congo.npy', 'model name': 'normal, with ABBA', 'k': 5}": 0.09394772201896946}
+{"{'index': 1727, 'country': 'Congo.npy', 'model name': 'normal, with ABBA', 'k': 6}": 0.13624766389394624}
+{"{'index': 1728, 'country': 'Congo.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 3}": 0.16399469023037222}
+{"{'index': 1729, 'country': 'Congo.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 4}": 0.1896650740531747}
+{"{'index': 1730, 'country': 'Congo.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 5}": 0.10483992832610615}
+{"{'index': 1731, 'country': 'Congo.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 6}": 0.8124067412066213}
+{"{'index': 1732, 'country': 'Congo.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 3}": 0.15304428430138153}
+{"{'index': 1733, 'country': 'Congo.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 4}": 0.16951708702861268}
+{"{'index': 1734, 'country': 'Congo.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 5}": 0.14782743451660818}
+{"{'index': 1735, 'country': 'Congo.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 6}": 0.16589913545816767}
+{"{'index': 1736, 'country': 'Congo.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 3}": 0.14057505939033613}
+{"{'index': 1737, 'country': 'Congo.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 4}": 0.22560570845549383}
+{"{'index': 1738, 'country': 'Congo.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 5}": 0.1354275176901735}
+{"{'index': 1739, 'country': 'Congo.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 6}": 0.17105801638072204}
+{"{'index': 1740, 'country': 'Congo.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 3}": 0.14587824355925574}
+{"{'index': 1741, 'country': 'Congo.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 4}": 0.1467310429043307}
+{"{'index': 1742, 'country': 'Congo.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 5}": 0.11273424540673198}
+{"{'index': 1743, 'country': 'Congo.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 6}": 0.21564249375469058}
+{"{'index': 1744, 'country': 'Congo.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 3}": 0.2360183941820901}
+{"{'index': 1745, 'country': 'Congo.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 4}": 0.2155350660763911}
+{"{'index': 1746, 'country': 'Congo.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 5}": 0.1653353715920386}
+{"{'index': 1747, 'country': 'Congo.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 6}": 0.1268353112681831}
+{"{'index': 1748, 'country': 'Congo.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 3}": 0.17021665724849608}
+{"{'index': 1749, 'country': 'Congo.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 4}": 0.2530723929890479}
+{"{'index': 1750, 'country': 'Congo.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 5}": 0.17847936915494372}
+{"{'index': 1751, 'country': 'Congo.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 6}": 0.16725724489695692}
+{"{'index': 1752, 'country': 'Congo.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 3}": 0.03602228852662696}
+{"{'index': 1753, 'country': 'Congo.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 4}": 0.10406195725392181}
+{"{'index': 1754, 'country': 'Congo.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 5}": 0.0986439531358559}
+{"{'index': 1755, 'country': 'Congo.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 6}": 0.10453854382657883}
+{"{'index': 1756, 'country': 'Congo.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 3}": 0.024023770036718822}
+{"{'index': 1757, 'country': 'Congo.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 4}": 0.2126973061760707}
+{"{'index': 1758, 'country': 'Congo.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 5}": 0.28551481116661936}
+{"{'index': 1759, 'country': 'Congo.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 6}": 0.17105801638072204}
+{"{'index': 1760, 'country': 'Cook Islands.npy', 'model name': 'normal, without ABBA', 'k': 3}": 0.161538775708078}
+{"{'index': 1761, 'country': 'Cook Islands.npy', 'model name': 'normal, without ABBA', 'k': 4}": 0.4297425464883907}
+{"{'index': 1762, 'country': 'Cook Islands.npy', 'model name': 'normal, without ABBA', 'k': 5}": 0.1182077580732583}
+{"{'index': 1763, 'country': 'Cook Islands.npy', 'model name': 'normal, without ABBA', 'k': 6}": 0.083317628078588}
+{"{'index': 1764, 'country': 'Cook Islands.npy', 'model name': 'normal, with ABBA', 'k': 3}": 0.046506647160266285}
+{"{'index': 1765, 'country': 'Cook Islands.npy', 'model name': 'normal, with ABBA', 'k': 4}": 0.06424910485943691}
+{"{'index': 1766, 'country': 'Cook Islands.npy', 'model name': 'normal, with ABBA', 'k': 5}": 0.20125429165707454}
+{"{'index': 1767, 'country': 'Cook Islands.npy', 'model name': 'normal, with ABBA', 'k': 6}": 0.15814787139356265}
+{"{'index': 1768, 'country': 'Cook Islands.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 3}": 0.5040023830932218}
+{"{'index': 1769, 'country': 'Cook Islands.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 4}": 0.24947097109946842}
+{"{'index': 1770, 'country': 'Cook Islands.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 5}": 0.03945187513977751}
+{"{'index': 1771, 'country': 'Cook Islands.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 6}": 0.16462648238117694}
+{"{'index': 1772, 'country': 'Cook Islands.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 3}": 0.14881110523286945}
+{"{'index': 1773, 'country': 'Cook Islands.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 4}": 0.04970648875673434}
+{"{'index': 1774, 'country': 'Cook Islands.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 5}": 0.08896814130709971}
+{"{'index': 1775, 'country': 'Cook Islands.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 6}": 0.15920596875504053}
+{"{'index': 1776, 'country': 'Cook Islands.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 3}": 0.04469642957378157}
+{"{'index': 1777, 'country': 'Cook Islands.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 4}": 0.06391369147853752}
+{"{'index': 1778, 'country': 'Cook Islands.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 5}": 0.30588209505501424}
+{"{'index': 1779, 'country': 'Cook Islands.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 6}": 0.05085892916089346}
+{"{'index': 1780, 'country': 'Cook Islands.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 3}": 0.09867853065059666}
+{"{'index': 1781, 'country': 'Cook Islands.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 4}": 0.0440090689744003}
+{"{'index': 1782, 'country': 'Cook Islands.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 5}": 0.08661238141676031}
+{"{'index': 1783, 'country': 'Cook Islands.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 6}": 0.12172802778344917}
+{"{'index': 1784, 'country': 'Cook Islands.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 3}": 0.08589494961077582}
+{"{'index': 1785, 'country': 'Cook Islands.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 4}": 0.09437588899365842}
+{"{'index': 1786, 'country': 'Cook Islands.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 5}": 0.16655058196165706}
+{"{'index': 1787, 'country': 'Cook Islands.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 6}": 0.10982380878112395}
+{"{'index': 1788, 'country': 'Cook Islands.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 3}": 0.11703773735106689}
+{"{'index': 1789, 'country': 'Cook Islands.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 4}": 0.11501316635342915}
+{"{'index': 1790, 'country': 'Cook Islands.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 5}": 0.1416206390200192}
+{"{'index': 1791, 'country': 'Cook Islands.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 6}": 0.09310012308664763}
+{"{'index': 1792, 'country': 'Cook Islands.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 3}": 0.1920379754536483}
+{"{'index': 1793, 'country': 'Cook Islands.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 4}": 0.04394716959194737}
+{"{'index': 1794, 'country': 'Cook Islands.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 5}": 0.3028817055200843}
+{"{'index': 1795, 'country': 'Cook Islands.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 6}": 0.15814787139356265}
+{"{'index': 1796, 'country': 'Cook Islands.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 3}": 0.09867853065059666}
+{"{'index': 1797, 'country': 'Cook Islands.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 4}": 0.21047755476656477}
+{"{'index': 1798, 'country': 'Cook Islands.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 5}": 0.17737775486178636}
+{"{'index': 1799, 'country': 'Cook Islands.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 6}": 0.1588155468068311}
+{"{'index': 4560, 'country': 'Malaysia.npy', 'model name': 'normal, without ABBA', 'k': 3}": 0.045447990296324785}
+{"{'index': 4561, 'country': 'Malaysia.npy', 'model name': 'normal, without ABBA', 'k': 4}": 0.05360107512388841}
+{"{'index': 4562, 'country': 'Malaysia.npy', 'model name': 'normal, without ABBA', 'k': 5}": 0.0390690026247657}
+{"{'index': 4563, 'country': 'Malaysia.npy', 'model name': 'normal, without ABBA', 'k': 6}": 0.1898246908340655}
+{"{'index': 4564, 'country': 'Malaysia.npy', 'model name': 'normal, with ABBA', 'k': 3}": 0.13457652630200953}
+{"{'index': 4565, 'country': 'Malaysia.npy', 'model name': 'normal, with ABBA', 'k': 4}": 0.051647533454126385}
+{"{'index': 4566, 'country': 'Malaysia.npy', 'model name': 'normal, with ABBA', 'k': 5}": 0.023484322821230304}
+{"{'index': 4567, 'country': 'Malaysia.npy', 'model name': 'normal, with ABBA', 'k': 6}": 0.058466524078334026}
+{"{'index': 4568, 'country': 'Malaysia.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 3}": 0.03109558724418145}
+{"{'index': 4569, 'country': 'Malaysia.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 4}": 0.14641401495820078}
+{"{'index': 4570, 'country': 'Malaysia.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 5}": 0.11737196859562422}
+{"{'index': 4571, 'country': 'Malaysia.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 6}": 0.06308601729111916}
+{"{'index': 4572, 'country': 'Malaysia.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 3}": 0.04342837032840391}
+{"{'index': 4573, 'country': 'Malaysia.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 4}": 0.06255382938277688}
+{"{'index': 4574, 'country': 'Malaysia.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 5}": 0.19786385569252501}
+{"{'index': 4575, 'country': 'Malaysia.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 6}": 0.11706898334362947}
+{"{'index': 4576, 'country': 'Malaysia.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 3}": 0.06552381988218989}
+{"{'index': 4577, 'country': 'Malaysia.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 4}": 0.0601225635388907}
+{"{'index': 4578, 'country': 'Malaysia.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 5}": 0.12836540588623463}
+{"{'index': 4579, 'country': 'Malaysia.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 6}": 0.08849444529678346}
+{"{'index': 4580, 'country': 'Malaysia.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 3}": 0.03255340952400745}
+{"{'index': 4581, 'country': 'Malaysia.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 4}": 0.05911255086255194}
+{"{'index': 4582, 'country': 'Malaysia.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 5}": 0.05135005441431735}
+{"{'index': 4583, 'country': 'Malaysia.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 6}": 0.07119044144693877}
+{"{'index': 4584, 'country': 'Malaysia.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 3}": 0.043800978641073}
+{"{'index': 4585, 'country': 'Malaysia.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 4}": 0.030680191748069484}
+{"{'index': 4586, 'country': 'Malaysia.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 5}": 0.09336225730058426}
+{"{'index': 4587, 'country': 'Malaysia.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 6}": 0.061642694489028975}
+{"{'index': 4588, 'country': 'Malaysia.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 3}": 0.031167121395997116}
+{"{'index': 4589, 'country': 'Malaysia.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 4}": 0.09858177119155624}
+{"{'index': 4590, 'country': 'Malaysia.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 5}": 0.027067720205051427}
+{"{'index': 4591, 'country': 'Malaysia.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 6}": 0.10007866576376297}
+{"{'index': 4592, 'country': 'Malaysia.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 3}": 0.1377285389346101}
+{"{'index': 4593, 'country': 'Malaysia.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 4}": 0.0700397536152217}
+{"{'index': 4594, 'country': 'Malaysia.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 5}": 0.024013900901152112}
+{"{'index': 4595, 'country': 'Malaysia.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 6}": 0.0979117813350019}
+{"{'index': 4596, 'country': 'Malaysia.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 3}": 0.11926938669372218}
+{"{'index': 4597, 'country': 'Malaysia.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 4}": 0.07701924955991715}
+{"{'index': 4598, 'country': 'Malaysia.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 5}": 0.09698530569129149}
+{"{'index': 4599, 'country': 'Malaysia.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 6}": 0.18038566035441458}
+{"{'index': 4600, 'country': 'Maldives.npy', 'model name': 'normal, without ABBA', 'k': 3}": 0.12656753318851682}
+{"{'index': 4601, 'country': 'Maldives.npy', 'model name': 'normal, without ABBA', 'k': 4}": 0.23755684994356824}
+{"{'index': 4602, 'country': 'Maldives.npy', 'model name': 'normal, without ABBA', 'k': 5}": 0.4020605324860053}
+{"{'index': 4603, 'country': 'Maldives.npy', 'model name': 'normal, without ABBA', 'k': 6}": 0.26996565025319413}
+{"{'index': 4604, 'country': 'Maldives.npy', 'model name': 'normal, with ABBA', 'k': 3}": 0.04992327227981427}
+{"{'index': 4605, 'country': 'Maldives.npy', 'model name': 'normal, with ABBA', 'k': 4}": 0.1523040368460396}
+{"{'index': 4606, 'country': 'Maldives.npy', 'model name': 'normal, with ABBA', 'k': 5}": 0.13710415477207977}
+{"{'index': 4607, 'country': 'Maldives.npy', 'model name': 'normal, with ABBA', 'k': 6}": 0.25035688049926635}
+{"{'index': 4608, 'country': 'Maldives.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 3}": 0.11097542187819635}
+{"{'index': 4609, 'country': 'Maldives.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 4}": 0.31940037575817737}
+{"{'index': 4610, 'country': 'Maldives.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 5}": 0.7860937697632732}
+{"{'index': 4611, 'country': 'Maldives.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 6}": 0.13688138934375493}
+{"{'index': 4612, 'country': 'Maldives.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 3}": 0.03538637072944198}
+{"{'index': 4613, 'country': 'Maldives.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 4}": 0.15945291534693404}
+{"{'index': 4614, 'country': 'Maldives.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 5}": 0.23799687763494176}
+{"{'index': 4615, 'country': 'Maldives.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 6}": 0.1331575301244766}
+{"{'index': 4616, 'country': 'Maldives.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 3}": 0.12042351041397874}
+{"{'index': 4617, 'country': 'Maldives.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 4}": 0.18255611143017858}
+{"{'index': 4618, 'country': 'Maldives.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 5}": 0.0450738823240788}
+{"{'index': 4619, 'country': 'Maldives.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 6}": 0.15330566608507418}
+{"{'index': 4620, 'country': 'Maldives.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 3}": 0.09754116426127972}
+{"{'index': 4621, 'country': 'Maldives.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 4}": 0.22661529612318299}
+{"{'index': 4622, 'country': 'Maldives.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 5}": 0.12481519412516544}
+{"{'index': 4623, 'country': 'Maldives.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 6}": 0.11093587534556613}
+{"{'index': 4624, 'country': 'Maldives.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 3}": 0.01643100258091922}
+{"{'index': 4625, 'country': 'Maldives.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 4}": 0.20877714668730094}
+{"{'index': 4626, 'country': 'Maldives.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 5}": 0.1976464269126073}
+{"{'index': 4627, 'country': 'Maldives.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 6}": 0.2299903485321}
+{"{'index': 4628, 'country': 'Maldives.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 3}": 0.05772633286399619}
+{"{'index': 4629, 'country': 'Maldives.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 4}": 0.2285869214685984}
+{"{'index': 4630, 'country': 'Maldives.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 5}": 0.1524727006735147}
+{"{'index': 4631, 'country': 'Maldives.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 6}": 0.119047195676959}
+{"{'index': 4632, 'country': 'Maldives.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 3}": 0.048287576828839086}
+{"{'index': 4633, 'country': 'Maldives.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 4}": 0.13174050675050905}
+{"{'index': 4634, 'country': 'Maldives.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 5}": 0.07502825352294057}
+{"{'index': 4635, 'country': 'Maldives.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 6}": 0.22943850912561295}
+{"{'index': 4636, 'country': 'Maldives.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 3}": 0.07193973432104948}
+{"{'index': 4637, 'country': 'Maldives.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 4}": 0.1409124432876746}
+{"{'index': 4638, 'country': 'Maldives.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 5}": 0.08276759591600348}
+{"{'index': 4639, 'country': 'Maldives.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 6}": 0.2548803144975398}
+{"{'index': 4640, 'country': 'Mali.npy', 'model name': 'normal, without ABBA', 'k': 3}": 0.03870054983832669}
+{"{'index': 4641, 'country': 'Mali.npy', 'model name': 'normal, without ABBA', 'k': 4}": 0.16652024413958744}
+{"{'index': 4642, 'country': 'Mali.npy', 'model name': 'normal, without ABBA', 'k': 5}": 0.03198415419754637}
+{"{'index': 4643, 'country': 'Mali.npy', 'model name': 'normal, without ABBA', 'k': 6}": 0.05279733017806278}
+{"{'index': 4644, 'country': 'Mali.npy', 'model name': 'normal, with ABBA', 'k': 3}": 0.014918175083631448}
+{"{'index': 4645, 'country': 'Mali.npy', 'model name': 'normal, with ABBA', 'k': 4}": 0.03456398155413416}
+{"{'index': 4646, 'country': 'Mali.npy', 'model name': 'normal, with ABBA', 'k': 5}": 0.03155694880127145}
+{"{'index': 4647, 'country': 'Mali.npy', 'model name': 'normal, with ABBA', 'k': 6}": 0.04261518416657972}
+{"{'index': 4648, 'country': 'Mali.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 3}": 0.05262810334444012}
+{"{'index': 4649, 'country': 'Mali.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 4}": 0.17883230029376354}
+{"{'index': 4650, 'country': 'Mali.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 5}": 0.028206007961234087}
+{"{'index': 4651, 'country': 'Mali.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 6}": 0.09011337332459936}
+{"{'index': 4652, 'country': 'Mali.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 3}": 0.15973417308166937}
+{"{'index': 4653, 'country': 'Mali.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 4}": 0.02500810173343861}
+{"{'index': 4654, 'country': 'Mali.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 5}": 0.20515140032564433}
+{"{'index': 4655, 'country': 'Mali.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 6}": 0.09573292883956126}
+{"{'index': 4656, 'country': 'Mali.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 3}": 0.011553592735556588}
+{"{'index': 4657, 'country': 'Mali.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 4}": 0.030412969613724968}
+{"{'index': 4658, 'country': 'Mali.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 5}": 0.0410955060599493}
+{"{'index': 4659, 'country': 'Mali.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 6}": 0.024742873849041964}
+{"{'index': 4660, 'country': 'Mali.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 3}": 0.005899032503461421}
+{"{'index': 4661, 'country': 'Mali.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 4}": 0.048704592295297874}
+{"{'index': 4662, 'country': 'Mali.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 5}": 0.09422047835320062}
+{"{'index': 4663, 'country': 'Mali.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 6}": 0.037132822796303526}
+{"{'index': 4664, 'country': 'Mali.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 3}": 0.10743814928097838}
+{"{'index': 4665, 'country': 'Mali.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 4}": 0.03599611921735203}
+{"{'index': 4666, 'country': 'Mali.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 5}": 0.13754149561585113}
+{"{'index': 4667, 'country': 'Mali.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 6}": 0.01804014286243477}
+{"{'index': 4668, 'country': 'Mali.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 3}": 0.1412942691192137}
+{"{'index': 4669, 'country': 'Mali.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 4}": 0.06167498478092468}
+{"{'index': 4670, 'country': 'Mali.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 5}": 0.1068487715091679}
+{"{'index': 4671, 'country': 'Mali.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 6}": 0.04942979360359426}
+{"{'index': 4672, 'country': 'Mali.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 3}": 0.05251311761618211}
+{"{'index': 4673, 'country': 'Mali.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 4}": 0.024842402185141936}
+{"{'index': 4674, 'country': 'Mali.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 5}": 0.03530264282032501}
+{"{'index': 4675, 'country': 'Mali.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 6}": 0.0586356522077886}
+{"{'index': 4676, 'country': 'Mali.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 3}": 0.01475097651189683}
+{"{'index': 4677, 'country': 'Mali.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 4}": 0.02731472724883092}
+{"{'index': 4678, 'country': 'Mali.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 5}": 0.07868224031941917}
+{"{'index': 4679, 'country': 'Mali.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 6}": 0.037132822796303526}
+{"{'index': 4680, 'country': 'Malta.npy', 'model name': 'normal, without ABBA', 'k': 3}": 0.26341493300913027}
+{"{'index': 4681, 'country': 'Malta.npy', 'model name': 'normal, without ABBA', 'k': 4}": 0.4263226877116921}
+{"{'index': 4682, 'country': 'Malta.npy', 'model name': 'normal, without ABBA', 'k': 5}": 0.49929867027269925}
+{"{'index': 4683, 'country': 'Malta.npy', 'model name': 'normal, without ABBA', 'k': 6}": 0.6222491116821641}
+{"{'index': 4684, 'country': 'Malta.npy', 'model name': 'normal, with ABBA', 'k': 3}": 0.048284648393804315}
+{"{'index': 4685, 'country': 'Malta.npy', 'model name': 'normal, with ABBA', 'k': 4}": 0.11205385797163775}
+{"{'index': 4686, 'country': 'Malta.npy', 'model name': 'normal, with ABBA', 'k': 5}": 0.3594805057198445}
+{"{'index': 4687, 'country': 'Malta.npy', 'model name': 'normal, with ABBA', 'k': 6}": 0.624997009479121}
+{"{'index': 4688, 'country': 'Malta.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 3}": 0.05409815722937261}
+{"{'index': 4689, 'country': 'Malta.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 4}": 0.05613756387332784}
+{"{'index': 4690, 'country': 'Malta.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 5}": 0.27881203369681995}
+{"{'index': 4691, 'country': 'Malta.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 6}": 0.08175081863474497}
+{"{'index': 4692, 'country': 'Malta.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 3}": 0.05566380963017}
+{"{'index': 4693, 'country': 'Malta.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 4}": 0.2094418180457805}
+{"{'index': 4694, 'country': 'Malta.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 5}": 0.464728703886579}
+{"{'index': 4695, 'country': 'Malta.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 6}": 0.5253946380897441}
+{"{'index': 4696, 'country': 'Malta.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 3}": 0.05359505895279096}
+{"{'index': 4697, 'country': 'Malta.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 4}": 0.09382746660984882}
+{"{'index': 4698, 'country': 'Malta.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 5}": 0.2377199280505163}
+{"{'index': 4699, 'country': 'Malta.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 6}": 0.8232670257636662}
+{"{'index': 4700, 'country': 'Malta.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 3}": 0.019276400664708575}
+{"{'index': 4701, 'country': 'Malta.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 4}": 0.11571861691980762}
+{"{'index': 4702, 'country': 'Malta.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 5}": 0.0995653884021271}
+{"{'index': 4703, 'country': 'Malta.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 6}": 0.29211208289840335}
+{"{'index': 4704, 'country': 'Malta.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 3}": 0.11531484223424715}
+{"{'index': 4705, 'country': 'Malta.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 4}": 0.2665133260906261}
+{"{'index': 4706, 'country': 'Malta.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 5}": 0.11625488966888584}
+{"{'index': 4707, 'country': 'Malta.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 6}": 0.5831843981398293}
+{"{'index': 4708, 'country': 'Malta.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 3}": 0.04995903661579793}
+{"{'index': 4709, 'country': 'Malta.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 4}": 0.10071900510880061}
+{"{'index': 4710, 'country': 'Malta.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 5}": 0.5516176525388137}
+{"{'index': 4711, 'country': 'Malta.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 6}": 0.6353252220424842}
+{"{'index': 4712, 'country': 'Malta.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 3}": 0.024138184333177163}
+{"{'index': 4713, 'country': 'Malta.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 4}": 0.17986974231186864}
+{"{'index': 4714, 'country': 'Malta.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 5}": 0.5095150772214361}
+{"{'index': 4715, 'country': 'Malta.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 6}": 0.5112609574551403}
+{"{'index': 4716, 'country': 'Malta.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 3}": 0.048284648393804315}
+{"{'index': 4717, 'country': 'Malta.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 4}": 0.16290605636226313}
+{"{'index': 4718, 'country': 'Malta.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 5}": 0.40584158092520467}
+{"{'index': 4719, 'country': 'Malta.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 6}": 0.40333462813543836}
+{"{'index': 4720, 'country': 'Marshall Islands.npy', 'model name': 'normal, without ABBA', 'k': 3}": 0.041178641666461874}
+{"{'index': 4721, 'country': 'Marshall Islands.npy', 'model name': 'normal, without ABBA', 'k': 4}": 0.02459485726259398}
+{"{'index': 4722, 'country': 'Marshall Islands.npy', 'model name': 'normal, without ABBA', 'k': 5}": 0.04753597066939055}
+{"{'index': 4723, 'country': 'Marshall Islands.npy', 'model name': 'normal, without ABBA', 'k': 6}": 0.06160645350608457}
+{"{'index': 4724, 'country': 'Marshall Islands.npy', 'model name': 'normal, with ABBA', 'k': 3}": 0.06692348121296338}
+{"{'index': 4725, 'country': 'Marshall Islands.npy', 'model name': 'normal, with ABBA', 'k': 4}": 0.032825039851152836}
+{"{'index': 4726, 'country': 'Marshall Islands.npy', 'model name': 'normal, with ABBA', 'k': 5}": 0.06064825792890617}
+{"{'index': 4727, 'country': 'Marshall Islands.npy', 'model name': 'normal, with ABBA', 'k': 6}": 0.027002445179115393}
+{"{'index': 4728, 'country': 'Marshall Islands.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 3}": 0.16282070923260705}
+{"{'index': 4729, 'country': 'Marshall Islands.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 4}": 0.24423877350112155}
+{"{'index': 4730, 'country': 'Marshall Islands.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 5}": 0.24910860370743576}
+{"{'index': 4731, 'country': 'Marshall Islands.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 6}": 0.1855755267669051}
+{"{'index': 4732, 'country': 'Marshall Islands.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 3}": 0.03226275131518702}
+{"{'index': 4733, 'country': 'Marshall Islands.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 4}": 0.03716852281120614}
+{"{'index': 4734, 'country': 'Marshall Islands.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 5}": 0.07289300473832723}
+{"{'index': 4735, 'country': 'Marshall Islands.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 6}": 0.05405567170556582}
+{"{'index': 4736, 'country': 'Marshall Islands.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 3}": 0.04201155368402527}
+{"{'index': 4737, 'country': 'Marshall Islands.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 4}": 0.026971850149753174}
+{"{'index': 4738, 'country': 'Marshall Islands.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 5}": 0.02163206527264098}
+{"{'index': 4739, 'country': 'Marshall Islands.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 6}": 0.0426095492453236}
+{"{'index': 4740, 'country': 'Marshall Islands.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 3}": 0.02811471650501858}
+{"{'index': 4741, 'country': 'Marshall Islands.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 4}": 0.015335194838936285}
+{"{'index': 4742, 'country': 'Marshall Islands.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 5}": 0.02683062029602425}
+{"{'index': 4743, 'country': 'Marshall Islands.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 6}": 0.019113593429212362}
+{"{'index': 4744, 'country': 'Marshall Islands.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 3}": 0.040927659448242504}
+{"{'index': 4745, 'country': 'Marshall Islands.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 4}": 0.04118401698375258}
+{"{'index': 4746, 'country': 'Marshall Islands.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 5}": 0.04636198570881761}
+{"{'index': 4747, 'country': 'Marshall Islands.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 6}": 0.06156376324670302}
+{"{'index': 4748, 'country': 'Marshall Islands.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 3}": 0.05090911143685204}
+{"{'index': 4749, 'country': 'Marshall Islands.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 4}": 0.03233329917133469}
+{"{'index': 4750, 'country': 'Marshall Islands.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 5}": 0.024506856394448016}
+{"{'index': 4751, 'country': 'Marshall Islands.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 6}": 0.043662747256488915}
+{"{'index': 4752, 'country': 'Marshall Islands.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 3}": 0.04201155368402527}
+{"{'index': 4753, 'country': 'Marshall Islands.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 4}": 0.051222639989998084}
+{"{'index': 4754, 'country': 'Marshall Islands.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 5}": 0.07456563763054166}
+{"{'index': 4755, 'country': 'Marshall Islands.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 6}": 0.062223460772424743}
+{"{'index': 4756, 'country': 'Marshall Islands.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 3}": 0.02811471650501858}
+{"{'index': 4757, 'country': 'Marshall Islands.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 4}": 0.021476024533259412}
+{"{'index': 4758, 'country': 'Marshall Islands.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 5}": 0.050421411237102386}
+{"{'index': 4759, 'country': 'Marshall Islands.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 6}": 0.04201784269758532}
+{"{'index': 4760, 'country': 'Martinique.npy', 'model name': 'normal, without ABBA', 'k': 3}": 0.06327460638827749}
+{"{'index': 4761, 'country': 'Martinique.npy', 'model name': 'normal, without ABBA', 'k': 4}": 0.043997324170683264}
+{"{'index': 4762, 'country': 'Martinique.npy', 'model name': 'normal, without ABBA', 'k': 5}": 0.040908705171551235}
+{"{'index': 4763, 'country': 'Martinique.npy', 'model name': 'normal, without ABBA', 'k': 6}": 0.03391566745175404}
+{"{'index': 4764, 'country': 'Martinique.npy', 'model name': 'normal, with ABBA', 'k': 3}": 0.06229211137125664}
+{"{'index': 4765, 'country': 'Martinique.npy', 'model name': 'normal, with ABBA', 'k': 4}": 0.05775085610564237}
+{"{'index': 4766, 'country': 'Martinique.npy', 'model name': 'normal, with ABBA', 'k': 5}": 0.2283512960022566}
+{"{'index': 4767, 'country': 'Martinique.npy', 'model name': 'normal, with ABBA', 'k': 6}": 0.18652928220510293}
+{"{'index': 4768, 'country': 'Martinique.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 3}": 0.04046189752442891}
+{"{'index': 4769, 'country': 'Martinique.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 4}": 0.03977622580653181}
+{"{'index': 4770, 'country': 'Martinique.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 5}": 0.21549137943708777}
+{"{'index': 4771, 'country': 'Martinique.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 6}": 0.0408810438639641}
+{"{'index': 4772, 'country': 'Martinique.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 3}": 0.02789417212905491}
+{"{'index': 4773, 'country': 'Martinique.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 4}": 0.044737867959110174}
+{"{'index': 4774, 'country': 'Martinique.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 5}": 0.03955155680645435}
+{"{'index': 4775, 'country': 'Martinique.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 6}": 0.043121777157764725}
+{"{'index': 4776, 'country': 'Martinique.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 3}": 0.0531798900252671}
+{"{'index': 4777, 'country': 'Martinique.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 4}": 0.06556651466709218}
+{"{'index': 4778, 'country': 'Martinique.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 5}": 0.15443243780950264}
+{"{'index': 4779, 'country': 'Martinique.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 6}": 0.08405969359391789}
+{"{'index': 4780, 'country': 'Martinique.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 3}": 0.07788979588895173}
+{"{'index': 4781, 'country': 'Martinique.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 4}": 0.07977106322627274}
+{"{'index': 4782, 'country': 'Martinique.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 5}": 0.11725107057130554}
+{"{'index': 4783, 'country': 'Martinique.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 6}": 0.09171065890482728}
+{"{'index': 4784, 'country': 'Martinique.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 3}": 0.05667253876009019}
+{"{'index': 4785, 'country': 'Martinique.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 4}": 0.054211128438442155}
+{"{'index': 4786, 'country': 'Martinique.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 5}": 0.038191053076469604}
+{"{'index': 4787, 'country': 'Martinique.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 6}": 0.038501252335066655}
+{"{'index': 4788, 'country': 'Martinique.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 3}": 0.06369326451464392}
+{"{'index': 4789, 'country': 'Martinique.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 4}": 0.03655408654765545}
+{"{'index': 4790, 'country': 'Martinique.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 5}": 0.03834818222364067}
+{"{'index': 4791, 'country': 'Martinique.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 6}": 0.03963748740320965}
+{"{'index': 4792, 'country': 'Martinique.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 3}": 0.07097269354255999}
+{"{'index': 4793, 'country': 'Martinique.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 4}": 0.08276275871078784}
+{"{'index': 4794, 'country': 'Martinique.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 5}": 0.2910476409864061}
+{"{'index': 4795, 'country': 'Martinique.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 6}": 0.2702335045970996}
+{"{'index': 4796, 'country': 'Martinique.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 3}": 0.07508360889579706}
+{"{'index': 4797, 'country': 'Martinique.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 4}": 0.017589104892460097}
+{"{'index': 4798, 'country': 'Martinique.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 5}": 0.15342169565058986}
+{"{'index': 4799, 'country': 'Martinique.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 6}": 0.04276050131046664}
+{"{'index': 4800, 'country': 'Mauritania.npy', 'model name': 'normal, without ABBA', 'k': 3}": 1.9248564271806863}
+{"{'index': 4801, 'country': 'Mauritania.npy', 'model name': 'normal, without ABBA', 'k': 4}": 0.48642450757228356}
+{"{'index': 4802, 'country': 'Mauritania.npy', 'model name': 'normal, without ABBA', 'k': 5}": 0.33066041779853456}
+{"{'index': 4803, 'country': 'Mauritania.npy', 'model name': 'normal, without ABBA', 'k': 6}": 0.29290957145960134}
+{"{'index': 4804, 'country': 'Mauritania.npy', 'model name': 'normal, with ABBA', 'k': 3}": 0.0389607135056822}
+{"{'index': 4805, 'country': 'Mauritania.npy', 'model name': 'normal, with ABBA', 'k': 4}": 0.2563201616291858}
+{"{'index': 4806, 'country': 'Mauritania.npy', 'model name': 'normal, with ABBA', 'k': 5}": 0.7988660327133468}
+{"{'index': 4807, 'country': 'Mauritania.npy', 'model name': 'normal, with ABBA', 'k': 6}": 0.41875228651476476}
+{"{'index': 4808, 'country': 'Mauritania.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 3}": 0.6983914511938538}
+{"{'index': 4809, 'country': 'Mauritania.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 4}": 0.7062375492738604}
+{"{'index': 4810, 'country': 'Mauritania.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 5}": 0.7074088084564472}
+{"{'index': 4811, 'country': 'Mauritania.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 6}": 0.6966077570637287}
+{"{'index': 4812, 'country': 'Mauritania.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 3}": 0.06804990492084406}
+{"{'index': 4813, 'country': 'Mauritania.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 4}": 0.2157229225043294}
+{"{'index': 4814, 'country': 'Mauritania.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 5}": 0.36538723066345125}
+{"{'index': 4815, 'country': 'Mauritania.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 6}": 0.3258682195577864}
+{"{'index': 4816, 'country': 'Mauritania.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 3}": 0.06480278940152011}
+{"{'index': 4817, 'country': 'Mauritania.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 4}": 0.20488768688894407}
+{"{'index': 4818, 'country': 'Mauritania.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 5}": 0.831845835409988}
+{"{'index': 4819, 'country': 'Mauritania.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 6}": 0.13250160460643676}
+{"{'index': 4820, 'country': 'Mauritania.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 3}": 0.03275738695038747}
+{"{'index': 4821, 'country': 'Mauritania.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 4}": 0.09689944170060312}
+{"{'index': 4822, 'country': 'Mauritania.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 5}": 0.8066910101149458}
+{"{'index': 4823, 'country': 'Mauritania.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 6}": 0.6818985782454856}
+{"{'index': 4824, 'country': 'Mauritania.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 3}": 0.07223734731829773}
+{"{'index': 4825, 'country': 'Mauritania.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 4}": 0.2605972938671608}
+{"{'index': 4826, 'country': 'Mauritania.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 5}": 0.25354332201985474}
+{"{'index': 4827, 'country': 'Mauritania.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 6}": 0.267403500653673}
+{"{'index': 4828, 'country': 'Mauritania.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 3}": 0.038315429059972934}
+{"{'index': 4829, 'country': 'Mauritania.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 4}": 0.20618454318156676}
+{"{'index': 4830, 'country': 'Mauritania.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 5}": 0.3231931979169713}
+{"{'index': 4831, 'country': 'Mauritania.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 6}": 0.2345294938435549}
+{"{'index': 4832, 'country': 'Mauritania.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 3}": 0.10485356267213315}
+{"{'index': 4833, 'country': 'Mauritania.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 4}": 0.10435588389893774}
+{"{'index': 4834, 'country': 'Mauritania.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 5}": 1.1118744863292538}
+{"{'index': 4835, 'country': 'Mauritania.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 6}": 0.11082463273093963}
+{"{'index': 4836, 'country': 'Mauritania.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 3}": 0.056697067622877385}
+{"{'index': 4837, 'country': 'Mauritania.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 4}": 0.3484368223638895}
+{"{'index': 4838, 'country': 'Mauritania.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 5}": 0.38799796536870995}
+{"{'index': 4839, 'country': 'Mauritania.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 6}": 0.12871566279344412}
+{"{'index': 7360, 'country': 'Swaziland.npy', 'model name': 'normal, without ABBA', 'k': 3}": 0.17699937575271696}
+{"{'index': 7361, 'country': 'Swaziland.npy', 'model name': 'normal, without ABBA', 'k': 4}": 0.07303182816223527}
+{"{'index': 7362, 'country': 'Swaziland.npy', 'model name': 'normal, without ABBA', 'k': 5}": 0.06281200445957699}
+{"{'index': 7363, 'country': 'Swaziland.npy', 'model name': 'normal, without ABBA', 'k': 6}": 0.5559467019461204}
+{"{'index': 7364, 'country': 'Swaziland.npy', 'model name': 'normal, with ABBA', 'k': 3}": 0.0203515454078235}
+{"{'index': 7365, 'country': 'Swaziland.npy', 'model name': 'normal, with ABBA', 'k': 4}": 0.12430564423924487}
+{"{'index': 7366, 'country': 'Swaziland.npy', 'model name': 'normal, with ABBA', 'k': 5}": 0.14969746206201323}
+{"{'index': 7367, 'country': 'Swaziland.npy', 'model name': 'normal, with ABBA', 'k': 6}": 0.22596530455692052}
+{"{'index': 7368, 'country': 'Swaziland.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 3}": 0.061797625851656546}
+{"{'index': 7369, 'country': 'Swaziland.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 4}": 0.07830036205597049}
+{"{'index': 7370, 'country': 'Swaziland.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 5}": 0.08314326403985457}
+{"{'index': 7371, 'country': 'Swaziland.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 6}": 0.17779112876789724}
+{"{'index': 7372, 'country': 'Swaziland.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 3}": 0.0552039460044254}
+{"{'index': 7373, 'country': 'Swaziland.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 4}": 0.04513212670181189}
+{"{'index': 7374, 'country': 'Swaziland.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 5}": 0.05089713379720512}
+{"{'index': 7375, 'country': 'Swaziland.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 6}": 0.03854818111928324}
+{"{'index': 7376, 'country': 'Swaziland.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 3}": 0.07662935814576728}
+{"{'index': 7377, 'country': 'Swaziland.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 4}": 0.16371058857917536}
+{"{'index': 7378, 'country': 'Swaziland.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 5}": 0.17114606195872595}
+{"{'index': 7379, 'country': 'Swaziland.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 6}": 0.13173209740675626}
+{"{'index': 7380, 'country': 'Swaziland.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 3}": 0.10566111924146099}
+{"{'index': 7381, 'country': 'Swaziland.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 4}": 0.5299958491091086}
+{"{'index': 7382, 'country': 'Swaziland.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 5}": 0.14319170526805544}
+{"{'index': 7383, 'country': 'Swaziland.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 6}": 0.2160357471043882}
+{"{'index': 7384, 'country': 'Swaziland.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 3}": 0.028158588276188844}
+{"{'index': 7385, 'country': 'Swaziland.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 4}": 0.032342056004699124}
+{"{'index': 7386, 'country': 'Swaziland.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 5}": 0.03973414865551086}
+{"{'index': 7387, 'country': 'Swaziland.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 6}": 0.04178917978417945}
+{"{'index': 7388, 'country': 'Swaziland.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 3}": 0.026542553446436138}
+{"{'index': 7389, 'country': 'Swaziland.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 4}": 0.02445956249017269}
+{"{'index': 7390, 'country': 'Swaziland.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 5}": 0.034859190677226114}
+{"{'index': 7391, 'country': 'Swaziland.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 6}": 0.04699686809342469}
+{"{'index': 7392, 'country': 'Swaziland.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 3}": 0.09298453951651432}
+{"{'index': 7393, 'country': 'Swaziland.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 4}": 0.28826888115191396}
+{"{'index': 7394, 'country': 'Swaziland.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 5}": 0.30373668847301677}
+{"{'index': 7395, 'country': 'Swaziland.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 6}": 0.14402242245822838}
+{"{'index': 7396, 'country': 'Swaziland.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 3}": 0.07496567159198601}
+{"{'index': 7397, 'country': 'Swaziland.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 4}": 0.07151164782638628}
+{"{'index': 7398, 'country': 'Swaziland.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 5}": 0.28449130192811084}
+{"{'index': 7399, 'country': 'Swaziland.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 6}": 0.19120455606123934}
+{"{'index': 7440, 'country': 'Switzerland.npy', 'model name': 'normal, without ABBA', 'k': 3}": 0.3276373633323732}
+{"{'index': 7441, 'country': 'Switzerland.npy', 'model name': 'normal, without ABBA', 'k': 4}": 0.13624359598725921}
+{"{'index': 7442, 'country': 'Switzerland.npy', 'model name': 'normal, without ABBA', 'k': 5}": 0.11537665892564601}
+{"{'index': 7443, 'country': 'Switzerland.npy', 'model name': 'normal, without ABBA', 'k': 6}": 0.17557441842174804}
+{"{'index': 7444, 'country': 'Switzerland.npy', 'model name': 'normal, with ABBA', 'k': 3}": 0.21648967551673218}
+{"{'index': 7445, 'country': 'Switzerland.npy', 'model name': 'normal, with ABBA', 'k': 4}": 0.02687370963851449}
+{"{'index': 7446, 'country': 'Switzerland.npy', 'model name': 'normal, with ABBA', 'k': 5}": 0.12587249504721099}
+{"{'index': 7447, 'country': 'Switzerland.npy', 'model name': 'normal, with ABBA', 'k': 6}": 0.11187174781411184}
+{"{'index': 7448, 'country': 'Switzerland.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 3}": 0.17083385884914848}
+{"{'index': 7449, 'country': 'Switzerland.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 4}": 0.1500502983822084}
+{"{'index': 7450, 'country': 'Switzerland.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 5}": 0.15305698678429855}
+{"{'index': 7451, 'country': 'Switzerland.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 6}": 0.12857441485522222}
+{"{'index': 7452, 'country': 'Switzerland.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 3}": 0.07238663131490322}
+{"{'index': 7453, 'country': 'Switzerland.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 4}": 0.09447458735083775}
+{"{'index': 7454, 'country': 'Switzerland.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 5}": 0.10925793712549411}
+{"{'index': 7455, 'country': 'Switzerland.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 6}": 0.06692782530080144}
+{"{'index': 7456, 'country': 'Switzerland.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 3}": 0.15420550232712227}
+{"{'index': 7457, 'country': 'Switzerland.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 4}": 0.08439280611225677}
+{"{'index': 7458, 'country': 'Switzerland.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 5}": 0.22562336420071522}
+{"{'index': 7459, 'country': 'Switzerland.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 6}": 0.1004254331772942}
+{"{'index': 7460, 'country': 'Switzerland.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 3}": 0.21648967551673218}
+{"{'index': 7461, 'country': 'Switzerland.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 4}": 0.11138032863310776}
+{"{'index': 7462, 'country': 'Switzerland.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 5}": 0.07311901904248228}
+{"{'index': 7463, 'country': 'Switzerland.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 6}": 0.07753314202333937}
+{"{'index': 7464, 'country': 'Switzerland.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 3}": 0.10343226945721855}
+{"{'index': 7465, 'country': 'Switzerland.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 4}": 0.12135055567139244}
+{"{'index': 7466, 'country': 'Switzerland.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 5}": 0.14293967937545354}
+{"{'index': 7467, 'country': 'Switzerland.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 6}": 0.10719662059135937}
+{"{'index': 7468, 'country': 'Switzerland.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 3}": 0.10546044553497536}
+{"{'index': 7469, 'country': 'Switzerland.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 4}": 0.12555496891027051}
+{"{'index': 7470, 'country': 'Switzerland.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 5}": 0.0835055293207308}
+{"{'index': 7471, 'country': 'Switzerland.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 6}": 0.1097734542589136}
+{"{'index': 7472, 'country': 'Switzerland.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 3}": 0.039698719141061815}
+{"{'index': 7473, 'country': 'Switzerland.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 4}": 0.035809991744503444}
+{"{'index': 7474, 'country': 'Switzerland.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 5}": 0.09216417376202199}
+{"{'index': 7475, 'country': 'Switzerland.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 6}": 0.08900354727434695}
+{"{'index': 7476, 'country': 'Switzerland.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 3}": 0.06652735607849171}
+{"{'index': 7477, 'country': 'Switzerland.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 4}": 0.03726351679664929}
+{"{'index': 7478, 'country': 'Switzerland.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 5}": 0.14800546310494428}
+{"{'index': 7479, 'country': 'Switzerland.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 6}": 0.10166303748627527}
+{"{'index': 7520, 'country': 'Tajikistan.npy', 'model name': 'normal, without ABBA', 'k': 3}": 0.24938194916553283}
+{"{'index': 7521, 'country': 'Tajikistan.npy', 'model name': 'normal, without ABBA', 'k': 4}": 0.21821659783552866}
+{"{'index': 7522, 'country': 'Tajikistan.npy', 'model name': 'normal, without ABBA', 'k': 5}": 0.13845445043944135}
+{"{'index': 7523, 'country': 'Tajikistan.npy', 'model name': 'normal, without ABBA', 'k': 6}": 0.1466693273343403}
+{"{'index': 7524, 'country': 'Tajikistan.npy', 'model name': 'normal, with ABBA', 'k': 3}": 0.14443968867237758}
+{"{'index': 7525, 'country': 'Tajikistan.npy', 'model name': 'normal, with ABBA', 'k': 4}": 0.05995123033877706}
+{"{'index': 7526, 'country': 'Tajikistan.npy', 'model name': 'normal, with ABBA', 'k': 5}": 0.05683903228402683}
+{"{'index': 7527, 'country': 'Tajikistan.npy', 'model name': 'normal, with ABBA', 'k': 6}": 0.4403168233864479}
+{"{'index': 7528, 'country': 'Tajikistan.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 3}": 0.3247261396852157}
+{"{'index': 7529, 'country': 'Tajikistan.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 4}": 0.18811174777959289}
+{"{'index': 7530, 'country': 'Tajikistan.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 5}": 0.2992894740348169}
+{"{'index': 7531, 'country': 'Tajikistan.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 6}": 0.2632900290526787}
+{"{'index': 7532, 'country': 'Tajikistan.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 3}": 0.1546097561702923}
+{"{'index': 7533, 'country': 'Tajikistan.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 4}": 0.03742637693321277}
+{"{'index': 7534, 'country': 'Tajikistan.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 5}": 0.3638577638190834}
+{"{'index': 7535, 'country': 'Tajikistan.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 6}": 0.4419110950062877}
+{"{'index': 7536, 'country': 'Tajikistan.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 3}": 0.17174514472021526}
+{"{'index': 7537, 'country': 'Tajikistan.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 4}": 0.09058277428255214}
+{"{'index': 7538, 'country': 'Tajikistan.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 5}": 0.1525165388692334}
+{"{'index': 7539, 'country': 'Tajikistan.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 6}": 0.21421748636848617}
+{"{'index': 7540, 'country': 'Tajikistan.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 3}": 0.05788062633568725}
+{"{'index': 7541, 'country': 'Tajikistan.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 4}": 0.0219315720224178}
+{"{'index': 7542, 'country': 'Tajikistan.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 5}": 0.05696044682528092}
+{"{'index': 7543, 'country': 'Tajikistan.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 6}": 0.1929501979256255}
+{"{'index': 7544, 'country': 'Tajikistan.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 3}": 0.05377463891785911}
+{"{'index': 7545, 'country': 'Tajikistan.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 4}": 0.10051771408066143}
+{"{'index': 7546, 'country': 'Tajikistan.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 5}": 0.2382693471200638}
+{"{'index': 7547, 'country': 'Tajikistan.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 6}": 0.31536722970254977}
+{"{'index': 7548, 'country': 'Tajikistan.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 3}": 0.09353276929502104}
+{"{'index': 7549, 'country': 'Tajikistan.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 4}": 0.05472116487126308}
+{"{'index': 7550, 'country': 'Tajikistan.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 5}": 0.07168701744754513}
+{"{'index': 7551, 'country': 'Tajikistan.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 6}": 0.37560501703929355}
+{"{'index': 7552, 'country': 'Tajikistan.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 3}": 0.17598839034800937}
+{"{'index': 7553, 'country': 'Tajikistan.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 4}": 0.05748237803586495}
+{"{'index': 7554, 'country': 'Tajikistan.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 5}": 0.5229895772708509}
+{"{'index': 7555, 'country': 'Tajikistan.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 6}": 0.23128533055970654}
+{"{'index': 7556, 'country': 'Tajikistan.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 3}": 0.1512279966583947}
+{"{'index': 7557, 'country': 'Tajikistan.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 4}": 0.10006920881852907}
+{"{'index': 7558, 'country': 'Tajikistan.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 5}": 0.05819828963754993}
+{"{'index': 7559, 'country': 'Tajikistan.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 6}": 0.19647881138845824}
+{"{'index': 7560, 'country': 'Tanzania.npy', 'model name': 'normal, without ABBA', 'k': 3}": 0.03885896938174617}
+{"{'index': 7561, 'country': 'Tanzania.npy', 'model name': 'normal, without ABBA', 'k': 4}": 0.057547281722152135}
+{"{'index': 7562, 'country': 'Tanzania.npy', 'model name': 'normal, without ABBA', 'k': 5}": 0.13243531824064264}
+{"{'index': 7563, 'country': 'Tanzania.npy', 'model name': 'normal, without ABBA', 'k': 6}": 0.0823065307922091}
+{"{'index': 7564, 'country': 'Tanzania.npy', 'model name': 'normal, with ABBA', 'k': 3}": 0.050689318780721}
+{"{'index': 7565, 'country': 'Tanzania.npy', 'model name': 'normal, with ABBA', 'k': 4}": 0.04110541157596785}
+{"{'index': 7566, 'country': 'Tanzania.npy', 'model name': 'normal, with ABBA', 'k': 5}": 0.09158745024215129}
+{"{'index': 7567, 'country': 'Tanzania.npy', 'model name': 'normal, with ABBA', 'k': 6}": 0.12152853496363974}
+{"{'index': 7568, 'country': 'Tanzania.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 3}": 0.08141833290486}
+{"{'index': 7569, 'country': 'Tanzania.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 4}": 0.12669011392074045}
+{"{'index': 7570, 'country': 'Tanzania.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 5}": 0.05863043831089269}
+{"{'index': 7571, 'country': 'Tanzania.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 6}": 0.04648831669111316}
+{"{'index': 7572, 'country': 'Tanzania.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 3}": 0.13239295180571775}
+{"{'index': 7573, 'country': 'Tanzania.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 4}": 0.09455739002192758}
+{"{'index': 7574, 'country': 'Tanzania.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 5}": 0.09304272094094375}
+{"{'index': 7575, 'country': 'Tanzania.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 6}": 0.14841415015720638}
+{"{'index': 7576, 'country': 'Tanzania.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 3}": 0.04240378171404616}
+{"{'index': 7577, 'country': 'Tanzania.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 4}": 0.028719094429180487}
+{"{'index': 7578, 'country': 'Tanzania.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 5}": 0.07483350506129191}
+{"{'index': 7579, 'country': 'Tanzania.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 6}": 0.09469206662418372}
+{"{'index': 7580, 'country': 'Tanzania.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 3}": 0.0642707293281135}
+{"{'index': 7581, 'country': 'Tanzania.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 4}": 0.02825572977186624}
+{"{'index': 7582, 'country': 'Tanzania.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 5}": 0.10321902427069655}
+{"{'index': 7583, 'country': 'Tanzania.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 6}": 0.1403966824722776}
+{"{'index': 7584, 'country': 'Tanzania.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 3}": 0.2129062835391756}
+{"{'index': 7585, 'country': 'Tanzania.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 4}": 0.035864644908335}
+{"{'index': 7586, 'country': 'Tanzania.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 5}": 0.10623058915937562}
+{"{'index': 7587, 'country': 'Tanzania.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 6}": 0.12354151257093049}
+{"{'index': 7588, 'country': 'Tanzania.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 3}": 0.15125169848364584}
+{"{'index': 7589, 'country': 'Tanzania.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 4}": 0.1147035859247693}
+{"{'index': 7590, 'country': 'Tanzania.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 5}": 0.07721124330548187}
+{"{'index': 7591, 'country': 'Tanzania.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 6}": 0.10780071479909263}
+{"{'index': 7592, 'country': 'Tanzania.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 3}": 0.043693882578894505}
+{"{'index': 7593, 'country': 'Tanzania.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 4}": 0.04924584864020004}
+{"{'index': 7594, 'country': 'Tanzania.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 5}": 0.09572680040586026}
+{"{'index': 7595, 'country': 'Tanzania.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 6}": 0.08680501054745493}
+{"{'index': 7596, 'country': 'Tanzania.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 3}": 0.04987612865883484}
+{"{'index': 7597, 'country': 'Tanzania.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 4}": 0.026338951984791407}
+{"{'index': 7598, 'country': 'Tanzania.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 5}": 0.07870032327625147}
+{"{'index': 7599, 'country': 'Tanzania.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 6}": 0.08658444291892424}
+{"{'index': 7600, 'country': 'Thailand.npy', 'model name': 'normal, without ABBA', 'k': 3}": 0.03040480417605666}
+{"{'index': 7601, 'country': 'Thailand.npy', 'model name': 'normal, without ABBA', 'k': 4}": 0.047704912046401676}
+{"{'index': 7602, 'country': 'Thailand.npy', 'model name': 'normal, without ABBA', 'k': 5}": 0.05903263095912349}
+{"{'index': 7603, 'country': 'Thailand.npy', 'model name': 'normal, without ABBA', 'k': 6}": 0.10183198601759298}
+{"{'index': 7604, 'country': 'Thailand.npy', 'model name': 'normal, with ABBA', 'k': 3}": 0.07125801938943478}
+{"{'index': 7605, 'country': 'Thailand.npy', 'model name': 'normal, with ABBA', 'k': 4}": 0.06615726564929583}
+{"{'index': 7606, 'country': 'Thailand.npy', 'model name': 'normal, with ABBA', 'k': 5}": 0.05162952322647598}
+{"{'index': 7607, 'country': 'Thailand.npy', 'model name': 'normal, with ABBA', 'k': 6}": 0.04811859165086416}
+{"{'index': 7608, 'country': 'Thailand.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 3}": 0.07150924474242788}
+{"{'index': 7609, 'country': 'Thailand.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 4}": 0.26741390147318783}
+{"{'index': 7610, 'country': 'Thailand.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 5}": 0.020960708713802133}
+{"{'index': 7611, 'country': 'Thailand.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 6}": 0.03303990395707789}
+{"{'index': 7612, 'country': 'Thailand.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 3}": 0.022348455637852788}
+{"{'index': 7613, 'country': 'Thailand.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 4}": 0.03964347544272398}
+{"{'index': 7614, 'country': 'Thailand.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 5}": 0.02084736678357285}
+{"{'index': 7615, 'country': 'Thailand.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 6}": 0.07198112954540735}
+{"{'index': 7616, 'country': 'Thailand.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 3}": 0.028897016648580978}
+{"{'index': 7617, 'country': 'Thailand.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 4}": 0.06375807003573715}
+{"{'index': 7618, 'country': 'Thailand.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 5}": 0.050156876204655323}
+{"{'index': 7619, 'country': 'Thailand.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 6}": 0.08134272970974461}
+{"{'index': 7620, 'country': 'Thailand.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 3}": 0.00821600669211949}
+{"{'index': 7621, 'country': 'Thailand.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 4}": 0.06615726564929583}
+{"{'index': 7622, 'country': 'Thailand.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 5}": 0.07020769709160271}
+{"{'index': 7623, 'country': 'Thailand.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 6}": 0.03266904833884506}
+{"{'index': 7624, 'country': 'Thailand.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 3}": 0.0490086682593887}
+{"{'index': 7625, 'country': 'Thailand.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 4}": 0.11359676205212088}
+{"{'index': 7626, 'country': 'Thailand.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 5}": 0.039633724364008374}
+{"{'index': 7627, 'country': 'Thailand.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 6}": 0.023053097681430462}
+{"{'index': 7628, 'country': 'Thailand.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 3}": 0.019826606183525306}
+{"{'index': 7629, 'country': 'Thailand.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 4}": 0.04191212986239261}
+{"{'index': 7630, 'country': 'Thailand.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 5}": 0.06275747587127833}
+{"{'index': 7631, 'country': 'Thailand.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 6}": 0.0928062448025434}
+{"{'index': 7632, 'country': 'Thailand.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 3}": 0.036838184677581966}
+{"{'index': 7633, 'country': 'Thailand.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 4}": 0.07459285888634024}
+{"{'index': 7634, 'country': 'Thailand.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 5}": 0.050148923246003854}
+{"{'index': 7635, 'country': 'Thailand.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 6}": 0.07730965834937387}
+{"{'index': 7636, 'country': 'Thailand.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 3}": 0.0776755127755315}
+{"{'index': 7637, 'country': 'Thailand.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 4}": 0.06935906945132418}
+{"{'index': 7638, 'country': 'Thailand.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 5}": 0.02117345158080875}
+{"{'index': 7639, 'country': 'Thailand.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 6}": 0.06856431601971935}
+{"{'index': 7680, 'country': 'Togo.npy', 'model name': 'normal, without ABBA', 'k': 3}": 0.7805740393433028}
+{"{'index': 7681, 'country': 'Togo.npy', 'model name': 'normal, without ABBA', 'k': 4}": 0.4880463779398124}
+{"{'index': 7682, 'country': 'Togo.npy', 'model name': 'normal, without ABBA', 'k': 5}": 0.21886373177123244}
+{"{'index': 7683, 'country': 'Togo.npy', 'model name': 'normal, without ABBA', 'k': 6}": 0.5895306149505289}
+{"{'index': 7684, 'country': 'Togo.npy', 'model name': 'normal, with ABBA', 'k': 3}": 0.014911226566920696}
+{"{'index': 7685, 'country': 'Togo.npy', 'model name': 'normal, with ABBA', 'k': 4}": 0.20314830056073874}
+{"{'index': 7686, 'country': 'Togo.npy', 'model name': 'normal, with ABBA', 'k': 5}": 0.09441702045287172}
+{"{'index': 7687, 'country': 'Togo.npy', 'model name': 'normal, with ABBA', 'k': 6}": 0.11710568756003438}
+{"{'index': 7688, 'country': 'Togo.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 3}": 0.16567648633606208}
+{"{'index': 7689, 'country': 'Togo.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 4}": 0.298756219821539}
+{"{'index': 7690, 'country': 'Togo.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 5}": 0.07501418150364017}
+{"{'index': 7691, 'country': 'Togo.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 6}": 0.06971123720612651}
+{"{'index': 7692, 'country': 'Togo.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 3}": 0.18043999855980908}
+{"{'index': 7693, 'country': 'Togo.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 4}": 0.12353115606071184}
+{"{'index': 7694, 'country': 'Togo.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 5}": 0.20313923224930147}
+{"{'index': 7695, 'country': 'Togo.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 6}": 0.17922287818770335}
+{"{'index': 7696, 'country': 'Togo.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 3}": 0.09690253652525621}
+{"{'index': 7697, 'country': 'Togo.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 4}": 0.23086910710258102}
+{"{'index': 7698, 'country': 'Togo.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 5}": 0.5007675610107627}
+{"{'index': 7699, 'country': 'Togo.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 6}": 0.22548131832828633}
+{"{'index': 7700, 'country': 'Togo.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 3}": 0.01353935761174113}
+{"{'index': 7701, 'country': 'Togo.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 4}": 0.20690081538286503}
+{"{'index': 7702, 'country': 'Togo.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 5}": 0.1664153819235217}
+{"{'index': 7703, 'country': 'Togo.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 6}": 0.34828901619045766}
+{"{'index': 7704, 'country': 'Togo.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 3}": 0.2100412876253117}
+{"{'index': 7705, 'country': 'Togo.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 4}": 0.10226903442117385}
+{"{'index': 7706, 'country': 'Togo.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 5}": 0.17270474702880967}
+{"{'index': 7707, 'country': 'Togo.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 6}": 0.1263526644099221}
+{"{'index': 7708, 'country': 'Togo.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 3}": 0.20639281588225764}
+{"{'index': 7709, 'country': 'Togo.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 4}": 0.060919587374962045}
+{"{'index': 7710, 'country': 'Togo.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 5}": 0.03120806184071042}
+{"{'index': 7711, 'country': 'Togo.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 6}": 0.20596048015539536}
+{"{'index': 7712, 'country': 'Togo.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 3}": 0.01669023886058323}
+{"{'index': 7713, 'country': 'Togo.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 4}": 0.19815446277250134}
+{"{'index': 7714, 'country': 'Togo.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 5}": 0.1780750262057918}
+{"{'index': 7715, 'country': 'Togo.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 6}": 0.08457212840393451}
+{"{'index': 7716, 'country': 'Togo.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 3}": 0.01669023886058323}
+{"{'index': 7717, 'country': 'Togo.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 4}": 0.33706286103783356}
+{"{'index': 7718, 'country': 'Togo.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 5}": 0.5993756878171023}
+{"{'index': 7719, 'country': 'Togo.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 6}": 0.05562030670299181}
+{"{'index': 7720, 'country': 'Tonga.npy', 'model name': 'normal, without ABBA', 'k': 3}": 0.22919958301604249}
+{"{'index': 7721, 'country': 'Tonga.npy', 'model name': 'normal, without ABBA', 'k': 4}": 0.41148774308207947}
+{"{'index': 7722, 'country': 'Tonga.npy', 'model name': 'normal, without ABBA', 'k': 5}": 0.22736805289078657}
+{"{'index': 7723, 'country': 'Tonga.npy', 'model name': 'normal, without ABBA', 'k': 6}": 0.18570248696497113}
+{"{'index': 7724, 'country': 'Tonga.npy', 'model name': 'normal, with ABBA', 'k': 3}": 0.16022703294362248}
+{"{'index': 7725, 'country': 'Tonga.npy', 'model name': 'normal, with ABBA', 'k': 4}": 0.03747031758696953}
+{"{'index': 7726, 'country': 'Tonga.npy', 'model name': 'normal, with ABBA', 'k': 5}": 0.21822147273483994}
+{"{'index': 7727, 'country': 'Tonga.npy', 'model name': 'normal, with ABBA', 'k': 6}": 0.2049029295030079}
+{"{'index': 7728, 'country': 'Tonga.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 3}": 0.21118909968105495}
+{"{'index': 7729, 'country': 'Tonga.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 4}": 0.2824895737929697}
+{"{'index': 7730, 'country': 'Tonga.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 5}": 0.21535400141821323}
+{"{'index': 7731, 'country': 'Tonga.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 6}": 0.19391434897128712}
+{"{'index': 7732, 'country': 'Tonga.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 3}": 0.3217546038062613}
+{"{'index': 7733, 'country': 'Tonga.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 4}": 0.23014525214794768}
+{"{'index': 7734, 'country': 'Tonga.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 5}": 0.2898814551251694}
+{"{'index': 7735, 'country': 'Tonga.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 6}": 0.2511391016490881}
+{"{'index': 7736, 'country': 'Tonga.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 3}": 0.15336439998010884}
+{"{'index': 7737, 'country': 'Tonga.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 4}": 0.029864728476917374}
+{"{'index': 7738, 'country': 'Tonga.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 5}": 0.32393953103061585}
+{"{'index': 7739, 'country': 'Tonga.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 6}": 0.17177406262912384}
+{"{'index': 7740, 'country': 'Tonga.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 3}": 0.16022703294362248}
+{"{'index': 7741, 'country': 'Tonga.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 4}": 0.0673343650950596}
+{"{'index': 7742, 'country': 'Tonga.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 5}": 0.14023693123723963}
+{"{'index': 7743, 'country': 'Tonga.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 6}": 0.22427351569141438}
+{"{'index': 7744, 'country': 'Tonga.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 3}": 0.2688392988077763}
+{"{'index': 7745, 'country': 'Tonga.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 4}": 0.256456653726177}
+{"{'index': 7746, 'country': 'Tonga.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 5}": 0.23650782883418797}
+{"{'index': 7747, 'country': 'Tonga.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 6}": 0.20626944128671967}
+{"{'index': 7748, 'country': 'Tonga.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 3}": 0.30971685022319856}
+{"{'index': 7749, 'country': 'Tonga.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 4}": 0.26800215014175843}
+{"{'index': 7750, 'country': 'Tonga.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 5}": 0.23540139384449596}
+{"{'index': 7751, 'country': 'Tonga.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 6}": 0.2062150916143328}
+{"{'index': 7752, 'country': 'Tonga.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 3}": 0.2035331714115722}
+{"{'index': 7753, 'country': 'Tonga.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 4}": 0.13139947789728246}
+{"{'index': 7754, 'country': 'Tonga.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 5}": 0.15992729069856254}
+{"{'index': 7755, 'country': 'Tonga.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 6}": 0.1341930880356819}
+{"{'index': 7756, 'country': 'Tonga.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 3}": 0.1392578766662196}
+{"{'index': 7757, 'country': 'Tonga.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 4}": 0.22262193136235456}
+{"{'index': 7758, 'country': 'Tonga.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 5}": 0.18593152974565325}
+{"{'index': 7759, 'country': 'Tonga.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 6}": 0.17683728169542515}
+{"{'index': 7760, 'country': 'Trinidad and Tobago.npy', 'model name': 'normal, without ABBA', 'k': 3}": 0.11811572871977667}
+{"{'index': 7761, 'country': 'Trinidad and Tobago.npy', 'model name': 'normal, without ABBA', 'k': 4}": 0.21600158079955534}
+{"{'index': 7762, 'country': 'Trinidad and Tobago.npy', 'model name': 'normal, without ABBA', 'k': 5}": 0.8408548336934565}
+{"{'index': 7763, 'country': 'Trinidad and Tobago.npy', 'model name': 'normal, without ABBA', 'k': 6}": 0.18671053028639387}
+{"{'index': 7764, 'country': 'Trinidad and Tobago.npy', 'model name': 'normal, with ABBA', 'k': 3}": 0.09994392830413268}
+{"{'index': 7765, 'country': 'Trinidad and Tobago.npy', 'model name': 'normal, with ABBA', 'k': 4}": 0.1022921340164507}
+{"{'index': 7766, 'country': 'Trinidad and Tobago.npy', 'model name': 'normal, with ABBA', 'k': 5}": 0.16477035910407503}
+{"{'index': 7767, 'country': 'Trinidad and Tobago.npy', 'model name': 'normal, with ABBA', 'k': 6}": 0.3014434182598789}
+{"{'index': 7768, 'country': 'Trinidad and Tobago.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 3}": 0.42042029466076203}
+{"{'index': 7769, 'country': 'Trinidad and Tobago.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 4}": 0.13182685521396742}
+{"{'index': 7770, 'country': 'Trinidad and Tobago.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 5}": 0.45393064943564454}
+{"{'index': 7771, 'country': 'Trinidad and Tobago.npy', 'model name': 'batch less, without ABBA, stateless, keras', 'k': 6}": 0.2681421082199658}
+{"{'index': 7772, 'country': 'Trinidad and Tobago.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 3}": 0.21521573740676211}
+{"{'index': 7773, 'country': 'Trinidad and Tobago.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 4}": 0.189079277743944}
+{"{'index': 7774, 'country': 'Trinidad and Tobago.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 5}": 0.09473755751011456}
+{"{'index': 7775, 'country': 'Trinidad and Tobago.npy', 'model name': 'batch less, without ABBA, stateful, keras', 'k': 6}": 0.10263918979457681}
+{"{'index': 7776, 'country': 'Trinidad and Tobago.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 3}": 0.10895557150241857}
+{"{'index': 7777, 'country': 'Trinidad and Tobago.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 4}": 0.1022921340164507}
+{"{'index': 7778, 'country': 'Trinidad and Tobago.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 5}": 0.2906581139207153}
+{"{'index': 7779, 'country': 'Trinidad and Tobago.npy', 'model name': 'batch less, with ABBA, stateless, keras', 'k': 6}": 0.13904284200692008}
+{"{'index': 7780, 'country': 'Trinidad and Tobago.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 3}": 0.06667333057880889}
+{"{'index': 7781, 'country': 'Trinidad and Tobago.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 4}": 0.3190581848863869}
+{"{'index': 7782, 'country': 'Trinidad and Tobago.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 5}": 0.12220212878438615}
+{"{'index': 7783, 'country': 'Trinidad and Tobago.npy', 'model name': 'batch less, with ABBA, stateful, keras', 'k': 6}": 0.3313610115643862}
+{"{'index': 7784, 'country': 'Trinidad and Tobago.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 3}": 0.14116928698658346}
+{"{'index': 7785, 'country': 'Trinidad and Tobago.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 4}": 0.22133464649802562}
+{"{'index': 7786, 'country': 'Trinidad and Tobago.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 5}": 0.1812836047173776}
+{"{'index': 7787, 'country': 'Trinidad and Tobago.npy', 'model name': 'batch less, without ABBA, stateless, pytorch', 'k': 6}": 0.2731725848136633}
+{"{'index': 7788, 'country': 'Trinidad and Tobago.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 3}": 0.1262808477638206}
+{"{'index': 7789, 'country': 'Trinidad and Tobago.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 4}": 0.10952014505214724}
+{"{'index': 7790, 'country': 'Trinidad and Tobago.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 5}": 0.18283888117231184}
+{"{'index': 7791, 'country': 'Trinidad and Tobago.npy', 'model name': 'batch less, without ABBA, stateful, pytorch', 'k': 6}": 0.2384940290159785}
+{"{'index': 7792, 'country': 'Trinidad and Tobago.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 3}": 0.07984503856043117}
+{"{'index': 7793, 'country': 'Trinidad and Tobago.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 4}": 0.10931774376357192}
+{"{'index': 7794, 'country': 'Trinidad and Tobago.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 5}": 0.25282701927962203}
+{"{'index': 7795, 'country': 'Trinidad and Tobago.npy', 'model name': 'batch less, with ABBA, stateless, pytorch', 'k': 6}": 0.2316686028199035}
+{"{'index': 7796, 'country': 'Trinidad and Tobago.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 3}": 0.05035400927005449}
+{"{'index': 7797, 'country': 'Trinidad and Tobago.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 4}": 0.06709355042114479}
+{"{'index': 7798, 'country': 'Trinidad and Tobago.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 5}": 0.20703225181690157}
+{"{'index': 7799, 'country': 'Trinidad and Tobago.npy', 'model name': 'batch less, with ABBA, stateful, pytorch', 'k': 6}": 0.18041946925139965}
